@@ -1,2 +1,2 @@
-# euruka-client
-euruka-client
+# eureka-client
+eureka-client
